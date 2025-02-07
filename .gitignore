@@ -52,12 +52,12 @@ bin/
 
 # BlueJ files
 *.ctxt
-
+build
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
-
+target
 # Package Files #
-*.jar
+!*.jar
 *.war
 *.nar
 *.ear
