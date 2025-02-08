@@ -9,10 +9,9 @@ exposed-mysql-test-impala-demo
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
+```shell
+gradle dependencies >gradle.dependencies.txt
+```
 #### 使用说明
 
 1.  xxxx
